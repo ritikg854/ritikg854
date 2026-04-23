@@ -17,9 +17,11 @@ I am currently completing an MSc in Cyber Security Management at Ravensbourne Un
 
 I am focused on building practical, job-relevant cybersecurity projects that strengthen my profile for SOC Analyst, Cyber Security Analyst, Security Operations Analyst, DLP Analyst, Endpoint Security Analyst, and Incident Response Support Analyst opportunities in the UK and Europe.
 
-## Featured Repository
+## Featured Repositories
 
 - [soc-labs](https://github.com/ritikg854/soc-labs) - SOC and blue-team lab work focused on alert triage, log analysis, phishing review, endpoint awareness, and practical security operations learning.
+- [security-automation-scripts](https://github.com/ritikg854/security-automation-scripts) - small Python-based security automation scripts for IOC extraction, analyst support, and practical security operations tasks.
+
 
 ## What I'm Building
 
