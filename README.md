@@ -42,4 +42,13 @@ London, United Kingdom
 
 I am continuing to build practical cybersecurity projects, structured lab work, and analyst-focused documentation to strengthen my technical credibility and support long-term growth in security operations and defensive security roles.
 
+## Technical Skills in Progress
+
+- SOC operations and alert triage
+- Log analysis and investigation workflows
+- Phishing analysis and suspicious email review
+- Endpoint security awareness
+- IOC extraction and security automation scripting
+
+
 
